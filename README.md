@@ -10,8 +10,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSOPT-Learning-JS%2FES6&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSOPT-Learning-JS%2F33-js-concepts&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 </div>
 
@@ -30,19 +29,28 @@
 
 ## 목차
 
-1. **[Variables](https://github.com/SOPT-Learning-JS/ES6/tree/main/1.%20Variables)**
-2. **[Functions](https://github.com/SOPT-Learning-JS/ES6/tree/main/2.%20Functions)**
-3. **[Strings](https://github.com/SOPT-Learning-JS/ES6/tree/main/3.%20Strings)** 
-4. **[Array](https://github.com/SOPT-Learning-JS/ES6/tree/main/4.%20Array)**   
-5. **[Destructuring](https://github.com/SOPT-Learning-JS/ES6/tree/main/5.%20Destructuring)**   
-6. **[Rest and Spread](https://github.com/SOPT-Learning-JS/ES6/tree/main/6.%20Rest%20and%20Spread)**
-7. **[For of Loop](https://github.com/SOPT-Learning-JS/ES6/tree/main/7.%20For%20of%20Loop)** 
-8. **[Promises](https://github.com/SOPT-Learning-JS/ES6/tree/main/8.%20Promises)**
-9. **[Async Await](https://github.com/SOPT-Learning-JS/ES6/tree/main/9.%20Async%20Await)**   
-10. **[Classes](https://github.com/SOPT-Learning-JS/ES6/tree/main/10.%20Classes)**
-11. **[Symbol, Set and Map](https://github.com/SOPT-Learning-JS/ES6/tree/main/11.%20Symbol%2C%20Set%20and%20Map)**
-12. **[Generators and Maps](https://github.com/SOPT-Learning-JS/ES6/tree/main/12.%20Generators%20and%20Maps)**
-13. **[ES2020](https://github.com/SOPT-Learning-JS/ES6/tree/main/13.%20ES2020)** 
+1. **[호출스택]()**
+2. **[원시 자료형]()**
+3. **[값 타입(Value Type)과 참조 타입(Reference Type)]()** 
+4. **[명시적 변환, 암시적 변환, Nominal, 구조화, 덕 타이핑]()**   
+5. **[== vs === vs typeof]()**   
+6. **[함수 범위, 블록 범위, 렉시컬(lexical) 범위]()**
+7. **[식(expression) vs 문(statement)]()** 
+8. **[IIFE, Modules, Namespaces]()**
+9. **[메시지 큐와 이벤트 루프]()**   
+10. **[setTimeout, setInterval, requestAnimationFrame]()**
+11. **[자바스크립트 엔진]()**
+12. **[this, call, apply, bind]()**
+13. **[new, 생성자, instanceof, 인스턴스]()** 
+14. **[프로토타입의 상속과 체인]()**
+15. **[Object.create와 Object.assign]()**
+16. **[map, reduce, filter]()**
+17. **[순수함수, 부수효과, 상태변이]()**
+18. **[클로저(Closures)]()**
+19. **[고차함수]()**
+20. **[Promises]()**
+21. **[async/await]()**
+22. **[상속, 다형성, 코드의 재사용성]()**   
 
 
 ## ⭐️ 참여자
