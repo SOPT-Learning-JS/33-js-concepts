@@ -8,3 +8,6 @@ assignees: ''
 ---
 
 👋 Custom Issue Template Test
+
+- [ ] 체크리스트1
+- [ ] 체크리스트2
