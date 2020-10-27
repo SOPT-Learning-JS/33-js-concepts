@@ -56,4 +56,18 @@
 ## ⭐️ 참여자
 
 -   Park Sangsu [:octocat:](https://github.com/epitoneproject)
--   Choi jeonggyun [:octocat:](https://github.com/wjdrbs96)
+-   Choi Jeonggyun [:octocat:](https://github.com/wjdrbs96)
+
+
+## 📘 스터디 기록
+
+|           주차            |               Sangsu               |             Jeonggyun              | 
+| :-----------------------: | :-------------------------------: | :-------------------------------: |
+| 2020.10.29 (1주차 목요일) | [:link:](./ms/Epitone/1.callStack.md)  | [:link:]()  | 
+<!-- | 2020.09.03 (1주차 목요일) | [:link:](./ms/week_1/Thursday.md) | [:link:](./dh/week_1/Thursday.md) | 
+| 2020.09.08 (2주차 화요일) | [:link:](./ms/week_2/Tuesday.md)  | [:link:](./dh/week_2/Tuesday.md)  |
+| 2020.09.10 (2주차 목요일) | [:link:](./ms/week_2/Thursday.md) | [:link:](./dh/week_2/Thursday.md) | 
+| 2020.09.15 (3주차 화요일) | [:link:](./ms/week_3/Tuesday.md)  | [:link:](./dh/week_3/Tuesday.md)  | 
+| 2020.09.17 (3주차 목요일) | [:link:](./ms/week_3/Thursday.md) | [:link:](./dh/week_3/Thursday.md) | 
+| 2020.09.22 (4주차 화요일) | [:link:](./ms/week_4/Tuesday.md)  | [:link:](./dh/week_4/Tuesday.md)  | 
+| 2020.09.24 (4주차 목요일) | [:link:](./ms/week_4/Thursday.md) | [:link:](./dh/week_4/Thursday.md) |  -->
