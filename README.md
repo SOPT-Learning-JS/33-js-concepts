@@ -63,7 +63,7 @@
 
 |           주차            |               Sangsu               |             Jeonggyun              | 
 | :-----------------------: | :-------------------------------: | :-------------------------------: |
-| 2020.10.29 (1주차 목요일) | [:link:](https://github.com/SOPT-Learning-JS/33-js-concepts/blob/master/Epitone/1.callStack.md)  | [:link:]()  | 
+| 2020.10.29 (1주차 목요일) | [:link:](https://github.com/SOPT-Learning-JS/33-js-concepts/blob/master/Epitone/1.callStack.md)  | [:link:](https://github.com/SOPT-Learning-JS/33-js-concepts/blob/master/Gyunny/1.callStack.md)  | 
 <!-- | 2020.09.03 (1주차 목요일) | [:link:](./ms/week_1/Thursday.md) | [:link:](./dh/week_1/Thursday.md) | 
 | 2020.09.08 (2주차 화요일) | [:link:](./ms/week_2/Tuesday.md)  | [:link:](./dh/week_2/Tuesday.md)  |
 | 2020.09.10 (2주차 목요일) | [:link:](./ms/week_2/Thursday.md) | [:link:](./dh/week_2/Thursday.md) | 
