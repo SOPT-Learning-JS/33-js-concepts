@@ -1,13 +1,7 @@
-var x = 'xxx';
+// 심볼 key는 이름의 충돌 위험이 없는 유일한 객체의 프로퍼티 키
+var key = Symbol('key');
+console.log(typeof key); // symbol
 
-function foo() {
-  var y = 'yyy';
-
-  function bar() {
-    var z = 'zzz';
-    console.log(x + y + z); // xxxyyyzzz
-  }
-  bar();
-}
-
-foo();
+var obj = {};
+obj[key] = 'value';
+console.log(obj[key]); // value
