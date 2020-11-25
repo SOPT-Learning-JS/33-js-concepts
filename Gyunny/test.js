@@ -1,5 +1,13 @@
-var o = { p: 42, q: true };
-var { p, q } = o;
+var x = 1;
 
-console.log(p); // 42
-console.log(q); // true
+function foo() {
+  var x = 10;
+  bar();
+}
+
+function bar() {
+  console.log(x);
+}
+
+foo();   // ?
+bar();   // ?
