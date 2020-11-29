@@ -69,6 +69,7 @@
 | 2020.11.10 (3주차 화요일) | [:link:](https://github.com/SOPT-Learning-JS/33-js-concepts/blob/master/Epitone/3.valueAndReferenceTypes.md)  | [:link:](https://github.com/SOPT-Learning-JS/33-js-concepts/blob/master/Gyunny/3.reference.md)
 | 2020.11.17 (4주차 화요일) | [:link:](https://github.com/SOPT-Learning-JS/33-js-concepts/blob/master/Epitone/4.Typing.md)  | [:link:]()
 | 2020.11.17 (4주차 화요일) | [:link:](https://github.com/SOPT-Learning-JS/33-js-concepts/blob/master/Epitone/5.%3D%3Dvs%3D%3D%3D.md)  | [:link:]()
+| 2020.11.25 (5주차 수요일) | [:link:](https://github.com/SOPT-Learning-JS/33-js-concepts/blob/master/Epitone/6.scope.md)  | [:link:]()
 
 <!-- | 2020.09.03 (1주차 목요일) | [:link:](./ms/week_1/Thursday.md) | [:link:](./dh/week_1/Thursday.md) | 
 | 2020.09.08 (2주차 화요일) | [:link:](./ms/week_2/Tuesday.md)  | [:link:](./dh/week_2/Tuesday.md)  |
