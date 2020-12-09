@@ -1,13 +1,7 @@
-var x = 1;
-
-function foo() {
-  var x = 10;
-  bar();
-}
-
-function bar() {
-  console.log(x);
-}
-
-foo();   // ?
-bar();   // ?
+console.log('테스트 중입니다');
+console.log('테스트 중입니다');
+console.log('테스트 중입니다');
+console.log('테스트 중입니다');
+console.log('테스트 중입니다');
+console.log('테스트 중입니다');
+console.log('테스트 중입니다');
