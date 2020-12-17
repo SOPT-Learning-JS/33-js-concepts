@@ -1,7 +1,5 @@
-console.log('테스트 중입니다');
-console.log('테스트 중입니다');
-console.log('테스트 중입니다');
-console.log('테스트 중입니다');
-console.log('테스트 중입니다');
-console.log('테스트 중입니다');
-console.log('테스트 중입니다');
+function normal(a, a) {
+  return a + a;
+}
+
+console.log(normal(1, 2));  // 4
